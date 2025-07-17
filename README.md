@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Python, C, C++, HTML, CSS, Java, MySQL, and Jupyter Notebook**
 - 👯 I’m looking to collaborate on **open-source projects and tech communities**
 - 👨‍💻 All of my projects are available at [https://github.com/RahulOnGit07](https://github.com/RahulOnGit07)
-- 📫 How to reach me: **rahulcsengineer@gmail.com**
+- 📫 How to reach me: **rahulsingh4828481@gmail.com**
 
 ---
 
