@@ -29,7 +29,6 @@
   <tr><td>💻 C programming</td><td>35%</td></tr>
   <tr><td>👾 C++</td><td>42.7%</td></tr>
   <tr><td>🌐 HTML</td><td>24.68%</td></tr>
-  <tr><td>📓 Jupyter Notebook</td><td>52%</td></tr>
   <tr><td>☕ Java</td><td>5%</td></tr>
   <tr><td>🎨 CSS</td><td>10.4%</td></tr>
 </table>
