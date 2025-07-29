@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul Vijaykumar Singh</h1>
 <h3 align="center">A passionate Computer Science Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RahulOnGit07&label=Profile%20views&color=0e75b6&style=flat" alt="RahulOnGit07" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RahulOnGit07" alt="RahulOnGit07" /></a> </p>
-
 - 🔭 I’m currently working on **Python-based projects, automation tools, and problem-solving**
 - 🌱 I’m currently learning **Python, C, C++, HTML, CSS, Java, MySQL, and Jupyter Notebook**
 - 👯 I’m looking to collaborate on **open-source projects and tech communities**
