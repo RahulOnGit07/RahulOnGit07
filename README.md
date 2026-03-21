@@ -22,10 +22,10 @@
 
 <h3 align="left">🚀 Most Used Languages</h3>
 <table>
-  <tr><td>🐍 Python</td><td>90%</td></tr>
+  <tr><td>🐍 Python</td><td>80%</td></tr>
   <tr><td>💻 C programming</td><td>75%</td></tr>
-  <tr><td>👾 C++</td><td>42.7%</td></tr>
-  <tr><td>🌐 HTML</td><td>55.68%</td></tr>
+  <tr><td>👾 C++</td><td>60%</td></tr>
+  <tr><td>🌐 HTML</td><td>55%</td></tr>
   <tr><td>☕ Java</td><td>85%</td></tr>
   <tr><td>🎨 CSS</td><td>10.4%</td></tr>
 </table>
