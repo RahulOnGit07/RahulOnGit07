@@ -1,68 +1,88 @@
-<h1 align="center">Hi 👋, I'm Rahul Vijaykumar Singh</h1>
-<h3 align="center">A passionate Computer Science Engineer from India</h3>
+<h1 align="center">Hi, I'm Rahul Vijaykumar Singh 👋</h1>
+<h3 align="center">Computer Science Engineer · Building AI-powered, real-world software</h3>
 
-- 🔭 I’m currently working on **Python-based projects, automation tools, and problem-solving**
-- 🌱 I’m currently learning **Python, C, C++, HTML, CSS, Java, MySQL, and Jupyter Notebook**
-- 👯 I’m looking to collaborate on **open-source projects and tech communities**
-- 👨‍💻 All my projects are available at [github.com/RahulOnGit07](https://github.com/RahulOnGit07)
-- 📫 Reach me at: **rahulsingh4828481@gmail.com**
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/RahulOnGit07" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" /></a>
-<a href="https://www.linkedin.com/in/rahul-vijaykumar-singh-85895532b/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" /></a>
-<a href="https://www.kaggle.com/rahulcsengineer" target="_blank"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="30" /></a>
-<a href="https://leetcode.com/profile/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" /></a>
-<a href="https://x.com/DevRahul07" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" height="30" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/rahul-vijaykumar-singh-85895532b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:rahulsingh4828481@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://twitter.com/DevRahul07"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
 </p>
 
 ---
 
-<h3 align="left">🚀 Most Used Languages</h3>
-<table>
-  <tr><td>🐍 Python</td><td>80%</td></tr>
-  <tr><td>💻 C programming</td><td>75%</td></tr>
-  <tr><td>👾 C++</td><td>60%</td></tr>
-  <tr><td>🌐 HTML</td><td>55%</td></tr>
-  <tr><td>☕ Java</td><td>85%</td></tr>
-  <tr><td>🎨 CSS</td><td>10.4%</td></tr>
-</table>
+### 🚀 About Me
+
+- 🎓 3rd-year CS Engineering student, India
+- 🧠 Focused on **AI/ML integration, data engineering, and full-stack development** — not just notebooks, but deployed, working systems
+- 🛠️ Currently building: LLM-powered tools (RAG, AI agents), automation scripts, and cloud-deployed apps
+- 📈 2025 focus: data analysis · 2026 focus: **shipping AI-integrated, production-style projects**
+- 🌱 Learning: LLM APIs & agent frameworks, Docker, cloud deployment (AWS/Render), MySQL
+- 🤝 Open to collaborating on open-source AI/automation projects
+- 📫 Reach me: rahulsingh4828481@gmail.com
 
 ---
 
-<h3 align="left">💻 Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" /></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" /></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" /></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" /></a>
-  <a href="https://jupyter.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="40" /></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" /></a>
-</p>
+### 🧰 Tech Stack
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Tools & Platforms**
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Exploring in 2026**
+![OpenAI API](https://img.shields.io/badge/LLM_APIs-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 ---
 
-<h3 align="left">🏅 Certificates:</h3>
-<p>
-  <img src="https://img.shields.io/badge/Ethical%20Hacker-Cisco%20Networking%20Academy-blue?style=for-the-badge&logo=cisco" alt="Ethical Hacker" />
-  <img src="https://img.shields.io/badge/Data%20Analyst%20in%20Python-DataCamp-yellowgreen?style=for-the-badge&logo=python" alt="Data Analyst in Python" />
+### 🏆 Certifications
+
+- 🛡️ Certified Ethical Hacker
+- 🌐 Cisco Networking Academy — [View Certificate](#)
+- 📊 Data Analyst in Python — DataCamp — [View Certificate](#)
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🩺 [AI Mental Health Early Warning System](#) | Detects early signs of mental health risk from behavioral/text data | Python, ML |
+| 🚔 [Crime Analysis in Los Angeles](#) | Identifies crime patterns using LAPD open data | Python, Pandas, Jupyter |
+| ⚽ [International Football Match Analysis](#) | Performance trends across men's & women's international soccer | Python, Pandas |
+| 🎬 [Netflix Content Analysis](#) | Uncovers insights on genres, durations, and content trends | Python, Jupyter |
+| 🏫 [NYC Public School Test Results](#) | Explores academic performance across NYC public schools | Python, Pandas |
+| 🏅 [Nobel Prize History Visualization](#) | Historical trends across Nobel laureate categories | Python, Matplotlib |
+
+> 🔨 **Building in 2026:** an AI resume-matching tool, a RAG-based Q&A assistant, and a deployed sentiment/fraud-detection API — replacing static notebooks with live, usable tools.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RahulOnGit07&show_icons=true&theme=radical" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RahulOnGit07&theme=radical" height="165">
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1xQ9cWf8k5gHmkYO6xEyHgBdY0MkMiOuJ/view?usp=sharing" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Cisco_academy_logo.svg" width="150" alt="Cisco Certificate"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/11lxpCjB5rb8I3NkYLBeZ6e1ian9nZ0rH/view?usp=sharing" target="_blank">
-    <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/null/external-data-analytics-technology-flaticons-lineal-color-flat-icons-3.png" width="150" alt="DataCamp Certificate"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulOnGit07&layout=compact&theme=radical">
 </p>
 
 ---
 
+<p align="center"><i>Always building, always learning. Let's connect and collaborate.</i></p>
 <h3 align="left">📂 Featured Projects:</h3>
 <ul>
   <li><a href="https://github.com/RahulOnGit07/Netflix-Analysis">Netflix‑Analysis</a></li>
